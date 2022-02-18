@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x52bcb3e0799a3fec5ad63a8bdab0dbd2d9becaa3",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x52bcb3e0799a3fec5ad63a8bdab0dbd2d9becaa3",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "BUTTSY",
+  "SYMBOL": "BUTTS",
+  "MAX_SUPPLY": 2222,
+  "WEI_COST": 100000000000000,
+  "DISPLAY_COST": 0.0001,
+  "GAS_LIMIT": 385000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/buttsy",
+  "SHOW_BACKGROUND": false
+}
